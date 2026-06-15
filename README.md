@@ -17,6 +17,12 @@ The solution analyzes US Federal Budget data and provides:
 
 ---
 
+## Dashboard Export
+
+[Download Dashboard PDF](Dashboard%20Export/SAP_Analytics_Cloud_FPA_Solution.pdf)
+
+---
+
 ## Business Objective
 
 Develop an executive dashboard that enables stakeholders to:
@@ -26,6 +32,17 @@ Develop an executive dashboard that enables stakeholders to:
 * Analyze spending by Agency, Bureau, and Account
 * Identify spending drivers
 * Evaluate future spending scenarios
+
+---
+
+## Project Highlights
+
+- Built end-to-end FP&A dashboard using SAP Analytics Cloud
+- Analyzed 60+ years of US Federal Budget data
+- Developed Budget vs Actual reporting framework
+- Implemented Agency → Bureau → Account drilldowns
+- Created forecast and scenario planning models
+- Designed executive KPI dashboards and variance analysis
 
 ---
 
@@ -76,6 +93,8 @@ Story Dashboard
 
 Forecast & Scenario Planning
 
+![Architecture](Architecture/Solution_Architecture.png)
+
 ---
 
 ## Dashboard Pages
@@ -89,6 +108,8 @@ Features:
 * Executive Insights
 * Interactive Filters
 
+![Executive Overview](Screenshots/Executive_Overview.png)
+
 ### 2. Budget vs Actual Analysis
 
 Features:
@@ -97,6 +118,8 @@ Features:
 * Category-Level Analysis
 * Variance Analysis
 * Spending Comparison
+
+![Budget vs Actual Analysis](Screenshots/Budget_vs_Actual_Analysis.png)
 
 ### 3. Agency Drilldown Analysis
 
@@ -107,6 +130,8 @@ Features:
 * Treemap Visualization
 * Largest Agency/Bureau/Account KPIs
 
+![Agency Drilldown Analysis](Screenshots/Agency_Drilldown_Analysis.png)
+
 ### 4. Forecast & Scenario Planning
 
 Features:
@@ -116,6 +141,8 @@ Features:
 * Aggressive Scenario (+8%)
 * Forecast Comparison Analysis
 * Planning Insights
+
+![Forecast & Scenario Planning](Screenshots/Forecast_Scenario_Planning.png)
 
 ---
 
