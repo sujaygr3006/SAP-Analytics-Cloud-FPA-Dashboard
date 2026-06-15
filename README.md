@@ -19,7 +19,7 @@ The solution analyzes US Federal Budget data and provides:
 
 ## Dashboard Export
 
-[Download Dashboard PDF](Dashboard%20Export/SAP_Analytics_Cloud_FPA_Solution.pdf)
+[Download Dashboard PDF](Dashboard%20Export/SAP_Analytics_Cloud_FPA_Solution_Budget_vs_Actual_Drilldown_Forecast_Planning.pdf)
 
 ---
 
@@ -142,7 +142,7 @@ Features:
 * Forecast Comparison Analysis
 * Planning Insights
 
-![Forecast & Scenario Planning](Screenshots/Forecast_Scenario_Planning.png)
+![Forecast & Scenario Planning](Screenshots/Forecast_&_Scenario_Planning.png)
 
 ---
 
